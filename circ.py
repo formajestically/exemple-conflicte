@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
+
 # Arxiu circ.py : càlcul perímetre d'una circumferència
+# Autor: Jordi Bultó
+
 radi = input("Radi de la circumferència? ")
 PI = 3.14
 perimetre = 2*PI*float(radi)
